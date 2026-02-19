@@ -146,9 +146,9 @@ yay -S astrbot-git
 paru -S astrbot-git
 ```
 
-#### 桌面端 Electron 打包
+#### 桌面端（Tauri）
 
-桌面端（Electron 打包，`pnpm` 工作流）构建流程请参阅：[`desktop/README.md`](desktop/README.md)。
+桌面端已迁移为独立仓库（Tauri）：[https://github.com/AstrBotDevs/AstrBot-desktop](https://github.com/AstrBotDevs/AstrBot-desktop)。
 
 ## 支持的消息平台
 
@@ -268,6 +268,16 @@ pre-commit install
 此外，本项目的诞生离不开以下开源项目的帮助：
 
 - [NapNeko/NapCatQQ](https://github.com/NapNeko/NapCatQQ) - 伟大的猫猫框架
+
+开源项目友情链接：
+
+- [NoneBot2](https://github.com/nonebot/nonebot2) - 优秀的 Python 异步 ChatBot 框架
+- [Koishi](https://github.com/koishijs/koishi) - 优秀的 Node.js ChatBot 框架
+- [MaiBot](https://github.com/Mai-with-u/MaiBot) - 优秀的拟人化 AI ChatBot
+- [nekro-agent](https://github.com/KroMiose/nekro-agent) - 优秀的 Agent ChatBot
+- [LangBot](https://github.com/langbot-app/LangBot) - 优秀的多平台 AI ChatBot
+- [ChatLuna](https://github.com/ChatLunaLab/chatluna) - 优秀的多平台 AI ChatBot Koishi 插件
+- [Operit AI](https://github.com/AAswordman/Operit) - 优秀的 AI 智能助手 Android APP
 
 ## ⭐ Star History
 
